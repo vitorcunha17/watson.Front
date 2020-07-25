@@ -1,0 +1,20 @@
+{
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "editor.rulers": [
+      79,
+      120
+  ],
+  "git.enableSmartCommit": true,
+  "editor.fontSize": 18,
+  "javascript.suggest.autoImports": false,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "editor.fontLigatures": true,
+  "editor.renderLineHighlight": "gutter",
+  "bracketPairColorizer.showBracketsInGutter": true,
+  "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never"
+}
